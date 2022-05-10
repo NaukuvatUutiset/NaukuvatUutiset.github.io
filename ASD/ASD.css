@@ -23,6 +23,13 @@ margin: 0;
 padding: 0;
 }
 
+.midiskaks{
+float:left; 
+width:100%;
+margin: 0;
+padding: 0;
+}
+
 .mainos2{
 float:right;
 width:25%;
@@ -43,7 +50,7 @@ padding-top: 100px;
         max-width: 90%;
     }
     .kokopaska{
-        height: 1919px;
+        height: 3700px;
     }
 }
 
